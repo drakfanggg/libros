@@ -3,9 +3,7 @@
 ## What is this?
 An open source app which revolves all around books: “Collecting books as you read them, virtually”.
 
-I post updates and tutorial on this code on medium, go check it out!
 
-https://medium.com/@norbertkozsir 
 
 ## Here are some gifs
 
@@ -25,14 +23,7 @@ https://medium.com/@norbertkozsir
 ### Master contains the newest code
 
 
-### First Post "v1"-branch
-https://medium.com/@norbertkozsir/flutter-how-i-built-a-simple-app-in-under-an-hour-from-scratch-and-how-you-can-do-it-too-6d8e7fe6c91b
 
-### Second Post "v2"-branch
-https://proandroiddev.com/flutter-bookshelf-app-part-2-personal-notes-and-database-integration-a3b47a84c57
-
-### Third Post "v3"-branch
-https://proandroiddev.com/flutter-bookshelf-app-part-3-managing-data-the-right-way-30569abf9487
 
 
 
